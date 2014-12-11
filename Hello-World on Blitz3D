@@ -1,0 +1,7 @@
+;Blitz3D first program
+
+Print "Hello World"
+
+WaitKey()
+
+End
